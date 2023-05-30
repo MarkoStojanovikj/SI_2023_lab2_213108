@@ -13,6 +13,9 @@
 3. username = "Marko", password = Orangutan23, email = null.
 4. username = null, password = Orangutan23, email = markostojanovikj@gmail.com.
 5. username = "Marko", password = Orangutan23, email = markostojanovikj@gmail.com.
+6. username = "Marko", password = Orangu, email = markostojanovikj@gmail.com.
+7. username = "Marko", password = Orangutan23@, email = markostojanovikj@gmail.com.
+8. username = "Marko", password = Orangutan 23, email = markostojanovikj@gmail.com.
 
 # Multiple condition
 1. user = null, X , X
